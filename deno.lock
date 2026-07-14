@@ -18,7 +18,7 @@
     "npm:react@latest": "19.2.7",
     "npm:tailwindcss@3.4.17": "3.4.17",
     "npm:typescript@5.7.3": "5.7.3",
-    "npm:use-debounce@^10.0.4": "10.1.1_react@19.2.7",
+    "npm:use-debounce@^10.1.1": "10.1.1_react@19.2.7",
     "npm:zod@^3.25.17": "3.25.76"
   },
   "npm": {
@@ -1223,7 +1223,7 @@
         "npm:react@latest",
         "npm:tailwindcss@3.4.17",
         "npm:typescript@5.7.3",
-        "npm:use-debounce@^10.0.4",
+        "npm:use-debounce@^10.1.1",
         "npm:zod@^3.25.17"
       ]
     }
